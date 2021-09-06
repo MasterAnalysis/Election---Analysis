@@ -14,7 +14,7 @@ The data presented three basic columns: ballot ID, county, and candidate name.
 
 ## Election Audit Results
 Below is an image of the summarized election results.
-![Election Results](analysis/Screen Shot 2021-09-05 at 7.42.52 PM.png)
+![Election Results](https://github.com/MasterAnalysis/Election---Analysis/blob/main/analysis/Screen%20Shot%202021-09-05%20at%207.42.52%20PM.png)
 
 The total amount of votes was 369,711. Denver received the most votes within this election, winning 82/8% of the total votes. Jefferson won 10.5% of the total votes, whereas Arapahoe only won 6.7% of the all votes.
 
